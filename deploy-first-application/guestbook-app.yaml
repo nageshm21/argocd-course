@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/nageshm21/argocd-example-apps
+    repoURL: https://github.com/nageshm21/argocd-example-apps.git
     targetRevision: HEAD
     path: guestbook
   destination:
