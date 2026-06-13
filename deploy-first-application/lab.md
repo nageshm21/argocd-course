@@ -13,7 +13,7 @@ In this lab, you will write an `Application` manifest from scratch. You will com
 1.  Create a new YAML file for your `Application` resource.
 2.  Define the `metadata` for the `Application`, giving it the name `guestbook` and ensuring it lives in the `argocd` namespace.
 3.  Define the `spec.project` as `default` and the `spec.source` to point to a public Git repository containing plain Kubernetes manifests. You can use the following for a demo application:
-    - **Repo URL:** `https://github.com/lm-academy/argocd-example-apps.git`
+    - **Repo URL:** `https://github.com/nageshm21/argocd-example-apps`
     - **Revision:** `HEAD`
     - **Path:** `guestbook`
 4.  Define the `spec.destination` field to deploy the application to the local cluster (`https://kubernetes.default.svc`) into the `default` namespace.
