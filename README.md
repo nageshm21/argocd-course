@@ -30,4 +30,4 @@ This repository covers the following topics:
 - **sync-phases-hooks**: Using Sync Phases and Hooks to run custom logic during the deployment lifecycle.
 - **sync-waves**: Orchestrating complex deployments using Sync Waves to define precise deployment order.
 
-I'm looking forward to seeing you in the course!
+
