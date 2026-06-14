@@ -26,7 +26,7 @@ In this lab, you will write an `Application` manifest from scratch. You will com
 - [Argo CD Application CRD Specification](https://argo-cd.readthedocs.io/en/stable/operator-manual/api-docs/#argoproj.io/v1alpha1.Application)
 - [Declarative Setup in Argo CD](https://argo-cd.readthedocs.io/en/stable/operator-manual/declarative-setup/)
 - [The `argocd-example-apps` Repository](https://github.com/argoproj/argocd-example-apps)
-- [My Fork of the `argocd-example-apps` Repository](https://github.com/lm-academy/argocd-example-apps)
+- [My Fork of the `argocd-example-apps` Repository](https://github.com/nageshm21/argocd-example-apps)
 
 ## 💭 Reflection Questions
 
